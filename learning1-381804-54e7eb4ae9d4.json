@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "learning1-381804",
+  "private_key_id": "54e7eb4ae9d4408a7c2db27975a6577db2e903e1",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDKvnftmVrOUx8q\nJM3bgGqL0hrm9qZzCxnYAx53oqX4FZhpf0LmMqn5klClzXigJhEOadJhOFr5asv/\n0uNrcLp5XTDwV6ELuhqeAnFwlitIN7OnzWqV9e6iclHUa3gJSr8paM3482LOPv67\nOfmLsBz+bX5jBks15qKlfSAzo9EClwwtN0auBd8FoqeGwb4pAsvdjATW/8G4JgN2\nG1nSmht/xQiccGb35kh5a3NVlqp3itjJsOqKnPpkUX0g/Ie7eTbRJ/JeFcNyfh3A\nenkk+7IYGGx0QWrROH6D9fdYMS4FNsLl0JXI86VriYIVNrjap6ZBTl5P1Ia0RVbT\nHgF8yAhhAgMBAAECggEABrY6tVyLHqMVBQm/rUr/1ZRYqT/0T4EU+fG6FuI4XF4n\nc/A8M4kgPc+taJyRjoiA4aYSZBi/6kHlPv+pFIV6DUqCGqX/NUQtkJpds9YRpYv/\nU2H/67b+9dT5bVU7EOB7zTZXznlAOO1QJ+9jZrYN2UTTfYCLCaqSkXS/yPXc++W1\nGW0kSptp4b+Z3sqdDHDXZMjWwDtJJzhVPVtkfNiX39EzzUTijbEvcw4mlE6RHryO\nUUoBGizSYDBgrBoi9zuyXY/AhXU81KVDIlpttWX6xGyIqyWW3j+SRu9oOuNt5+Nq\nMVRdSw3qVAwz4W+iWfp1PZ+Pf+mbSVniVnwMvhh5gQKBgQD2lIex56tSMFRb0lis\n+ZfHbAal/6jeXBFhAX7FUejKTgZaucWaHM1KtsH+m7S9uzjU/4Ona0n+PFo533pT\nkFitoU1UyaOYE/bTjaqoBqvMB/dCsCVs81EDdOtHHEQV+oQeMY4fBDTzmgRLXOHB\nIRVm/VkfqLj6KxYsGxV+6I6bAwKBgQDSfTxPhLB8jfTyyQahuLqcszFRsDVPDV5N\nlWL4WEIhARk/z+VYomWZlCADKWq5Uz/cZeQbXFwTipE21WC1hGTg03ltAycjaBlA\nPOqeKlZMSu0Fvqa0KcsZoVgw6DzbzcBeSrUIlVuCxEohef5uqVWMeKFiNSLpcw1Q\nz6IusQ9fywKBgQCpu2QMmiPb11i6O/i+WLCZnUqWSX28UjPESnsw6EkNuNe269mR\nU/IcU+EFmbi4QX/FXn0JaVjtoC2bWLGjg+EG49mPW504ucVVqlamgrEPKQyS4x1f\n+bzyXDD4KgTT/DWlcwcZYpPwezwphC4B+vv4gLwwhruNuMryYVJSoVJIcQKBgQDJ\ng/p0iq1IYcPLmGfP9oI6OVgTQ+aVi0/oaQe6iQyuelXJAOkqhTdN5EENpd42FRyD\njczn4PGKB9Rksb4HqfvGPs/2bNlQjX33QRrBV/kMy4LGSDNjMsvt+sjq8bwqF35/\nB3jwAcX9mJz8FcZf/aAYfvjKg+Krq2lpH4++sebtJwKBgH47a7DA4yi2DSZdcGBM\nkg9w/1u11mfMVIRTEYp2e3e3bnSZrryCrkR4vRPDigp8NCLJlCn5I+sCNYu7kr2M\nUGu8TSqoNgLG7S+MZ9Cyow1HNjjg3VDSePz6T7S6Y2AM6JbTT2PtOQLGp6GYZ/u0\nOjOE1lKAUIpdcykGRjDrGktl\n-----END PRIVATE KEY-----\n",
+  "client_email": "learning@learning1-381804.iam.gserviceaccount.com",
+  "client_id": "110660583032181856078",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/learning%40learning1-381804.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
